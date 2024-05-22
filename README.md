@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Profile views](https://gpvc.arturio.dev/johndoe)
 -->
 
 
 
 # Hi there, I'm Zheng jiacan! 👋
-
-![Profile views](https://gpvc.arturio.dev/johndoe)
 
 ## About Me
 - 🌱 I’m currently learning **Machine Learning**
@@ -31,14 +31,6 @@ Here are some ideas to get you started:
 - **Languages**: Python, Matlab
 - **Frameworks**: Django, Flask, React
 - **Tools**: Linux, Git, Docker, VSCode
-
-## Connect with Me
-- [LinkedIn](https://linkedin.com)
-- [Twitter](https://twitter.com)
-- [Blog](https://baidu.com)
-
-## Projects
-- [Awesome Project 1](https://github.com/Volcano-X/BPNet)
 
 ## GitHub Stats
 ![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
