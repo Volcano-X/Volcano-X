@@ -15,22 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Profile views](https://gpvc.arturio.dev/johndoe)
+
+
+## GitHub Stats
+![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volcano-X&show_icons=true&theme=radical)
+
+- 📫 How to reach me: [jiacan_zheng@163.com](mailto:jiacan_zheng@163.com)
 -->
 
 
 
-# Hi there, I'm Zheng jiacan! 👋
+# Hey, I'm VolcanoX! 👋
 
 ## About Me
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Machine Learning, Deep Learning, Python, Linux**
-- 📫 How to reach me: [jiacan_zheng@163.com](mailto:jiacan_zheng@163.com)
 
 ## Skills
 - **Languages**: Python, Matlab
-- **Frameworks**: Django, Flask, React
+- **Frameworks**: Pytorch, TensorFlow, Numpy
 - **Tools**: Linux, Git, Docker, VSCode
-
-## GitHub Stats
-![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volcano-X&show_icons=true&theme=radical)
