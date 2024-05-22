@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - **Tools**: Linux, Git, Docker, VSCode
 
 ## GitHub Stats
-![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volcano-X&show_icons=true&theme=radical)
