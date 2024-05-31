@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## About Me
 - 🌱 I’m currently working on **Transformer, Machine Learning**
 - 👯 I’m interesting in **the first principle behind deep network architecture**
-- 👯 I’m interesting in **the technoligy of linux system**
+- 👯 I’m interesting in **the technology of linux system**
 - 💬 Ask me about **Transformer, Machine Learning, Deep Learning, Python, Linux**
 
 ## Skills
