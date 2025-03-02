@@ -28,11 +28,10 @@ Here are some ideas to get you started:
 # Hey, I'm VolcanoX! 👋
 
 ## About Me
-- 🔭 I’m currently working on **speech recognition**.
-- 🌱 I’m currently working on **Transformer, Machine Learning**
-- 👯 I’m interesting in **the first principle behind deep network architecture**
-- 👯 I’m interesting in **the technology of linux system**
-- 💬 Ask me about **Transformer, Machine Learning, Deep Learning, Python, Linux**
+- 🔭 I’m currently working on **Automatic Speech Recognition (ASR)**
+- 🌱 I’m currently learning **Transformer, Machine Learning**.
+- 👯 I’m interesting in **the first principle behind deep network architecture**, **the technology of linux system**
+- 💬 Ask me about **ASR, Transformer, Machine Learning, Deep Learning, Python, Linux**
 
 ## Skills
 - **Languages**: Python, Bash, C
